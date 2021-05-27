@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Natavar Prajapati
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Android and NodeJs
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me call on : +919429957789
                       email : prajapatinatavar21197@gmail.com
 
