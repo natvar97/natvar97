@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Natavar Prajapati
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android and NodeJs
-- 📫 How to reach me call on : +919429957789
-                      email : prajapatinatavar21197@gmail.com
+- Hi, I’m Natavar Prajapati
+- I am Junior Android Developer with 9 months of experience
+- Currently learning Unreal C++ for Game Development
+- How to reach me call on : +919429957789, email : prajapatinatavar21197@gmail.com
 
 <!---
 natvar97/natvar97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
