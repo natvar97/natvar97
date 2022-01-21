@@ -1,6 +1,6 @@
 - Hi, I’m Natavar Prajapati
 - I am Junior Android Developer with 9 months of experience
-- Currently learning Unreal C++ for Game Development
+- Currently learning Spring Framework
 - How to reach me call on : +919429957789, email : prajapatinatavar21197@gmail.com
 
 <!---
