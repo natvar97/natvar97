@@ -1,5 +1,5 @@
 - Hi, I’m Natavar Prajapati
-- I am Junior Android Developer with 9 months of experience
+- I am Junior Android Developer with 1.5 years of experience
 - Currently learning Spring Framework
 - How to reach me call on : +919429957789, email : prajapatinatavar21197@gmail.com
 
